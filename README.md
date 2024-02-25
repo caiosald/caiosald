@@ -1,7 +1,9 @@
 <h1 align="center">Olá, Eu sou o Caio Saldanha</h1>
 <h3 align="center">Estudante de Ciência da Computação</h3>
 
-- Atualmente estou aprendendo **Java**
+- Atualmente estou estudando <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
 
 - Contato: **csaldanha181104@gmail.com**
 
