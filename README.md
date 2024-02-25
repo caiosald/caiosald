@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Eu sou o Caio Saldanha</h1>
 <h3 align="center">Estudante de Ciência da Computação</h3>
 
-- Atualmente estou aprendendo **Java e Pandas**
+- Atualmente estou aprendendo **Java**
 
 - Contato: **csaldanha181104@gmail.com**
 
