@@ -3,7 +3,7 @@
 
 - Atualmente estou aprendendo **Java e Pandas**
 
-- 📫 Você pode me contactar no seguinte email: **csaldanha181104@gmail.com**
+- Contato: **csaldanha181104@gmail.com**
 
 <h3 align="left">Linguagens e Ferramentas já estudadas:</h3>
 <p align="left">
